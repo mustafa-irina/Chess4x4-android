@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chess4x4_android_version</string>
+    <string name="dummy_button">А как поднять бабла?</string>
+    <string name="dummy_content">Chess4x4</string>
+</resources>

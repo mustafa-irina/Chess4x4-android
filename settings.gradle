@@ -1,0 +1,2 @@
+rootProject.name='Chess4x4_android_version'
+include ':app'
